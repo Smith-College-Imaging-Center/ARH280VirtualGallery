@@ -1,0 +1,1078 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e72e3fb12d2c4ddc8e0e2d6854e1db1, type: 3}
+  m_Name: galleryData
+  m_EditorClassIdentifier: 
+  responses:
+  - artist: Han Gan
+    artistDates: 742 - 756
+    title: Night-Shining White
+    date: 750
+    medium: Ink on Paper
+    size: 12.125 in x 13.375 in
+    institution: The Metropolitan Museum of Art
+    imageFileName: g4_AnnePeck_1
+    labelText: 'The horse in this painting looks odd to those with a modern notion
+      of what a horse looks like, with its disproportionately large, round rump, small
+      head, and expressive human-like eyes. These visual features, commonly seen in
+      ancient Chinese horse paintings, were viewed as favorable traits in a superior
+      steed. The horse is showing its teeth and flaring its nostrils. Is it happy,
+      frightened, or angry? Is it fighting against its restraint? Whatever emotion
+      the artist was trying to convey, he vividly captured the physical strength of
+      the horse. Commissioned by Emperor Xuanzong (r. 712-756) of the Tang dynasty,
+      this piece probably portrays one of his favorite chargers as a symbol of imperial
+      power. '
+    typeOfObject: Handscroll
+  - artist: Wang Mian
+    artistDates: 1287 - 1359
+    title: Fragrant Snow at Broken Bridge
+    date: late 1200s
+    medium: ink on silk
+    size: 44.5 in x 19.75 in
+    institution: The Metropolitan Museum of Art
+    imageFileName: g4_AnnePeck_2
+    labelText: "A leading plum painter of the late Yuan dynasty, Wang Mian was known
+      for capturing not only the formal likeness of the botanical structure of the
+      plum blossom but also its spirit. This painting shows a branch of plum blossoms
+      hanging down from what one can assume is the rest of the tree. The motif of
+      plum blossom was traditionally associated with simplicity and endurance. These
+      Confucian virtues are embodied in the picture with a simple composition of the
+      hearty branch and delicate blooms. Notice the meticulous details rendering the
+      individual flower petals and the texture of the bough. The spontaneous strokes
+      show Wang Mian's freedom to express emotion. The branch hangs in an \u201CS\u201D
+      shape, framing a poem: \n\nA wintry plum tree with branches like white jade,
+      \nA warm breeze scatters the flowers with snowflakes. \nThe Hermit of the Lonely
+      Hill has remained true to himself; \nNow who carries the sound of reedpipe music
+      across the broken bridge? "
+    typeOfObject: Hanging Scroll
+  - artist: Tang Yin
+    artistDates: 1470-1523
+    title: Mount Hua
+    date: 1506
+    medium: Ink and light color on paper
+    size: 111.1 x 41.5 cm
+    institution: The Cleveland Museum of Art
+    imageFileName: g5_ChristinaHung_1
+    labelText: "Tang Yin was a celebrated painter in late Ming China and became romanticized
+      in Chinese folklore. His works frequently themed on the idea of ephemerality,
+      which is epitomized in this painting. Tang composed and inscribed a poem on
+      the picture: \u201CWearing a white-bordered scholar robe and green jade pendants,
+      he is unconcerned with worldly fame. Like Pan Lang resisting old age through
+      high spirits, crazy and clumsy, he rides his donkey past Mount Hua.\u201D The
+      stiff brushstrokes of the mountain stone and the distinct colors of the vegetation
+      grab the eye, softened only by the misty clouds and the shrouded background
+      peaks. Yet, despite how boldly Mount Hua looms, this image remains a mere snapshot
+      of a sight seen as the poem\u2019s speaker passes by it, \u201Ccrazy and clumsy.\u201D
+      Tang Yin uses the balance between his painting and poetry to illustrate his
+      theme of impermanence, showing Mount Hua to be a flashy but passing thought
+      on a grander journey."
+    typeOfObject: Hanging Scroll
+  - artist: Cheng Zhengkui [attributed]
+    artistDates: 1604-1676
+    title: Dream Journey among Rivers and Mountains
+    date: 1658
+    medium: Ink and light color on paper
+    size: 26cm x 344.2cm
+    institution: The Cleveland Museum of Art
+    imageFileName: g5_ChristinaHung_2
+    labelText: "Cheng Zhengkui was a former Ming official who, after retiring to South
+      China, emerged from retirement (1649) to serve the Qing court. This painting
+      is one of a hundred within a series that he painted as gifts for fellow officials,
+      though only about forty survive today. The mountains and waterfalls of the landscape
+      mimic those of south China, Cheng\u2019s home region. While the picture does
+      not portray a real place, it exudes an aura of tranquility, a dream journey
+      that brings the viewer into an enjoyable fantasy, crossing the boundary between
+      reality and imagination as an escape from the mundane chores of court service.
+      Cheng even commented on the picture: \"The wondrous part of this lies between
+      the seemingly forgotten and remembered, between the apparent meeting and parting.\"
+      It is a true haven of calm, an imaginary space of relaxation for the viewer
+      to travel through. "
+    typeOfObject: Handscroll
+  - artist: Attributed to Gu Kaizhi
+    artistDates: c. 334-406 AD
+    title: 'The Admonitions of the Instructress to the Court Ladies '
+    date: 5th to 8th century
+    medium: Ink on paper
+    size: 343.75 X 24.37 cm
+    institution: British Museum, London
+    imageFileName: g2_ChichiWu_1
+    labelText: "Poem in translation:\n\nIf the words that you utter are good,\nall
+      men for a thousand leaugues around will make response to you.\nIf you offend
+      against this principle,\nthen even your bedfellow will distrust you.\n\nZhang
+      Hua\n\n\nThought to be a copy of a Jin Dynasty (265-420) court painting, The
+      Admonitions Scroll (5th to 8th century) is attributed to Gu Kaizhi (c. 334-406
+      AD), a famed master of painting and calligraphy. A preeminent work of early
+      Chinese figure painting, Admonitions Scroll animates the poetic text of Jin
+      Dynasty official, Zhang Hua (c. 232-300 AD). Reprimanding the behavior of the
+      consort of Emperor Hui (290-301), the scroll depicts nine didactic scenes concerning
+      the proper role of ladies in court. This particular scene is of the emperor
+      and his consort in the bedchamber. They are ensconced amid the draped canopy
+      and shielding screens. Looking at the body language of the figures, however,
+      shows that this intimate setting is anything but intimate. The concubine has
+      one arm tightly wrapped around the screen barrier, leaning away from her companion.
+      The emperor\u2019s face portrays suspicion and turmoil, feelings reflected in
+      the accompanying poem, a moral lesson about what prompts distrust."
+    typeOfObject: Handscroll
+  - artist: Shen Zhou
+    artistDates: 1427-1509
+    title: Poet on a Mountain Top
+    date: 1500
+    medium: Ink on paper
+    size: 38.7 x 60.3 cm
+    institution: The Nelson-Atkins Museum of Art, Kansas City, Missouri
+    imageFileName: g2_ChichiWu_2
+    labelText: "Shen Zhou is one of the leading Ming Dynasty painters, an exemplar
+      of the literati tradition and a master at unifying poetry and painting. Together
+      the two aspects are useful in illuminating the profound message of the value
+      of nature. A lone figure, the poet, stands solemnly at the edge of a vast precipice.
+      He is oriented toward a view of open sky and curling clouds, demonstrating the
+      sheer expansiveness and beauty of nature in comparison to the small being, and
+      similarly, inviting the viewer to participate. The poet is gazing out into the
+      distance, and the inscribed poem is within his sightline. Therefore, although
+      a contemplation on the beauty of nature, this is also symbolic of self-reflection
+      and cultivation. \n\nThe inscribed poem in English: \nWhite clouds sash-like
+      wrap mountain waists, \nThe rock terrace flies in space distant, a narrow path.
+      \nLeaning on a bramble staff far and free I gaze, \nTo the warble of valley
+      brook I will reply, whistling. \n"
+    typeOfObject: Sheet
+  - artist: Unknown Artist
+    artistDates: Unknown
+    title: 'Portrait of the Imperial Bodyguard Zhanyinbao '
+    date: (dated 1760)
+    medium: Ink and color on silk
+    size: 331.5 x 117.8 cm.
+    institution: The Metropolitan Museum of Art, New York
+    imageFileName: g3_KatieSimpson_1
+    labelText: "\nAlthough the imperial bodyguard Zhanyinbao has long since passed
+      on, his image survives. Completed in 1760, this painting depicts a guard of
+      the Chinese emperor Qianlong. The emperor of this time favored Western modes
+      of artmaking. Notice the meticulous rendering of Zhanyinbao\u2019s face\u2014
+      done with Western realism in mind\u2014 and contrast it to the flat tones of
+      his garb. Also, pay attention to minute details like the wrinkles on his forehead
+      and the pout of his lips. As his hardened expression suggests, Zhanyinbao's
+      story is likely far from peaceful. "
+    typeOfObject: Hanging Scroll
+  - artist: Unknown
+    artistDates: (active mid-13th century)
+    title: Chan Master Riding a Mule
+    date: (before 1249)
+    medium: Ink on Paper
+    size: "148 \xD7 34.3 cm."
+    institution: The Metropolitan Museum of Art, New York.
+    imageFileName: g3_KatieSimpson_2
+    labelText: 'Sometime before 1249, a Chinese monk applied the finishing brushstrokes
+      to this piece. He did not bother to sign his name. Despite its age, if you look
+      past the weathered canvas, you may notice that this painting is reminiscent
+      of modern cartoonism. It expresses the humorous image of a monk sitting upon
+      the back of a too-small mule. Using very few yet purposeful marks, the artist
+      exaggerates the figure''s most prominent features; notably, his brow. Although
+      aesthetics change over time, it appears as though human beings have always had
+      an affinity for abstraction. '
+    typeOfObject: Hanging Scroll
+  - artist: Kishi Ganku
+    artistDates: 1756-1839
+    title: 'Scroll: Chinese General Gan''u (Guan Yu)'
+    date: 1789
+    medium: brush and ink bordered in silk and mounted on silk brocade
+    size: 'scroll: 79 x 19 1/2 in.; 200.66 x 49.53 cm; image: 45 x 16 in.; 114.3 x
+      40.64 cm'
+    institution: Smith College Museum of Art
+    imageFileName: g2_1
+    labelText: "Kishi Ganku, born in Kanazawa, was a prolific Japanese painter of
+      the late Edo period and founder of the Kishi school of painting. This portrait
+      in color depicts the legendary general Guan Yu (d. 220 CE), the epitome of Confucian
+      virtues of righteousness and loyalty. His majestic appearance is based on Chinese
+      folk imagery, which features a pink face and long beard. Above the seated warrior
+      is an eight-line poem quoted from the fourteenth century Romance of the Three
+      Kingdoms, which praises Guan\u2019s military accomplishment and nobility, since
+      he was deified as the god of war. Guan is portrayed with thin lines, and the
+      calligraphy is similarly done in a standardized, emotionless manner. The consistent
+      style of brushwork thus amplifies the dispassionate presence of the noble hero.
+      \n\n\u5FB9\u81BD\u9577\u5B58\u7FA9\uFF0C\u7D42\u8EAB\u601D\u5831\u6069\u3002\n\u5A01\u98A8\u9F4A\u65E5\u6708\uFF0C\u540D\u8B7D\u632F\u4E7E\u5764\u3002\n\u5FE0\u52C7\u9AD8\u4E09\u570B
+      \uFF0C\u82F1\u8B00\u9677\u4E03\u5C6F\u3002\n\u81F3\u4ECA\u5343\u8F7D\u4E0B\uFF0C\u8ECD\u65C5\u62DC\u82F1\u9748\u3002\n"
+    typeOfObject: Hanging Scroll
+  - artist: Shitao (Zhu Ruoji)
+    artistDates: 1642-1707
+    title: "\u201COrchids,\u201D leaf 4 from album Returning Home"
+    date: ca. 1695
+    medium: Album of twelve leaves; ink and color on paper
+    size: "Image (each): 6 1/2 \xD7 4 1/8 in. (16.5 \xD7 10.5 cm) Each leaf with painting:
+      8 5/16 \xD7 5 5/16 in. (21.1 \xD7 13.5 cm) Each double leaf unfolded: 8 5/16
+      \xD7 10 5/8 in. (21.1 \xD7 27 cm)"
+    institution: The Metropolitan Museum of Art
+    imageFileName: g2_IzzyChen_1
+    labelText: "This exquisite album leaf juxtaposes a picture and a poem of orchids
+      by Shitao. The orchid, a motif frequently evoked by the Chinese literati, humbly
+      grows in the wild but gives off an elegant fragrance. It served as a pictorial
+      allegory of gentlemen. In his poem, Shitao draws upon this allegory to express
+      his attachment to virtuous friends in a life of displacement. Living in the
+      early Qing Dynasty as a descendant of the Ming imperial family, he experienced
+      many dangers and traveled involuntarily from city to city. Shitao immersed himself
+      in art as a way to transcend the difficulties in life and achieved great innovation
+      in painting. As this album leaf demonstrates, he integrates calligraphy and
+      painting by using the same types of brushstrokes. The branches are uniform,
+      rhythmic lines, and the petals and buds resemble enlarged dots, whereas the
+      poem on the left is as if composed of slender orchid leaves. \n\nPoem in translation:
+      \nWords from a sympathetic heart are as fragrant as orchids;\nLike orchids in
+      feeling, they are agreeable and always joyous; \nYou should wear these orchids
+      to protect yourself from the spring chill; \nWhen the spring winds are cold,
+      who can say you are safe? \n\n--Old Man of Bitter Melon, Ji "
+    typeOfObject: Sheet
+  - artist: Bada Shanren (Zhu Da)
+    artistDates: 1626-1705
+    title: Fish and Rocks
+    date: dated 1699
+    medium: Hanging Scroll; ink on paper
+    size: 'Image: 53 1/4 x 24 in. (135.3 x 61 cm) Overall with mounting: 92 1/2 x
+      31 1/2 in. (235 x 80 cm) Overall with knobs: 92 1/2 x 34 1/4 in. (235 x 87 cm)'
+    institution: The Metropolitan Museum of Art
+    imageFileName: g2_IzzyChen_2
+    labelText: "Known for his eccentric character, Bada Shanren reinterpreted the
+      literati tradition of calligraphic painting. His artworks appear most idiosyncratic,
+      even amongst all the radical painters of the 17th century. This late work of
+      his evokes an abstract and enigmatic landscape characteristic of Bada Shanren\u2019s
+      bold individual style. The erecting rocks constitute the dual focus of the composition.
+      A single line asserts the foreground, whereas the boulder on the upper left
+      recedes into an indefinite distance. Two swimming fish transform the void into
+      a pond that unifies the composition as a single pictorial space--but paradoxically
+      highlights an unsettling sense of absence. Landscape elements are minimally
+      incorporated to signify--rather than render--spatial relations. Like a Chinese
+      character, it is through arranging seemingly independent units that Bada Shanren
+      achieves a coherent visual expression--one that is incredibly rich in meaning."
+    typeOfObject: Hanging Scroll
+  - artist: Zhao Mengfu
+    artistDates: 1254-1322
+    title: Sheep and Goat
+    date: 1274-1322
+    medium: Ink and color on paper
+    size: 25.2 x 48.4 cm
+    institution: Freer Gallery of Art
+    imageFileName: g4_MaryMcGing_1
+    labelText: "Zhao Mengfu\u2019s Sheep and Goat exemplifies the precision with which
+      the painter and calligrapher commanded ink. The sheep in this painting seems
+      to embody the splotchy and aqueous nature of ink, while the goat is composed
+      of loose dry strokes. The two animals balance each other in texture and form.
+      Although voids separate the sheep and the goat in the middle, their poses create
+      circular energy, a silent but fluid interaction across the composition. In both
+      animals, there is a balance between the expressiveness of ink and Zhao\u2019s
+      precision, seen in the energetic textures of the bodies compared to the extreme
+      detail in their faces and legs. Working during the early Yuan Dynasty (1279-1368),
+      Zhao Mengfu was a scholar-amateur in calligraphy and painting. Zhao\u2019s background
+      in calligraphy shaped his experience as a painter, describing his art-making
+      process as writing rather than painting, going as far as to name his brushstrokes
+      after the styles of script."
+    typeOfObject: Handscroll
+  - artist: Qian Xuan
+    artistDates: 1235-1305
+    title: Doves and Pear Blossoms after Rain
+    date: Yuan Dynasty, late 13th Century
+    medium: Ink and color on powdered paper
+    size: '12 x 38.5 in '
+    institution: Cincinnati Art Museum
+    imageFileName: g4_MaryMcGing_2
+    labelText: "Qian Xuan\u2019s Doves and Pear Blossoms after Rain unites animals
+      and plants through its muted color palette and consistently fine brushwork,
+      creating an incredible sense of softness. The beige pear blossoms are barely
+      noticeable against the paper ground, giving the branches an almost bare appearance,
+      confusing the sense of season and weather asserted in the painting\u2019s title.
+      In both their pale brown color and plump shape, the birds resemble pears, making
+      them connected to the tree as its fruit rather than just momentary visitors.
+      This composition lends a stillness, a sense of permanence, to an otherwise ephemeral
+      depiction of spring rain. Qian Xuan was active during the early Yuan Dynasty,
+      working both as a painter and poet. A renowned scholar from Hu Zhou, Qian\u2019s
+      work mixed tradition with innovation, taking traditional subjects and depicting
+      them using new techniques of brushwork, color palettes, and flattened forms."
+    typeOfObject: Handscroll
+  - artist: Anonymous
+    artistDates: N/A
+    title: "Gibbons Raiding an Egret\u2019s Nest "
+    date: 'Late 12th century C.E. '
+    medium: Fan mounted as an album leaf; ink and color on silk
+    size: "9 \xBD x 9 in"
+    institution: The Metropolitan Museum of Art
+    imageFileName: g4_MiriamPellegrino_1
+    labelText: "\nCan you decipher the hidden message within this fan painting? This
+      piece is a rebus\u2014a visual pun represented by pictures\u2014that can be
+      decoded by studying the subject matter. The painting, rendered in delicate strokes
+      and muted earth tones, shows an expressive scene of three gibbons stealing egret
+      chicks from a nest while the egret mother circles angrily above. In spoken Chinese,
+      a concise description of the scene, \u201CThree gibbons catching egrets,\u201D
+      sounds like the statement, \u201CA triple first gains power.\u201D A \u201Ctriple
+      first\u201D refers to someone who placed first in all levels of Imperial China\u2019s
+      examinations. These competitive examinations determined who received coveted
+      bureaucratic positions. This fan would have been given as a gift to a successful
+      scholar, to congratulate them, or to an aspiring one, as a show of support.
+      This was a popular sentiment, as evidenced by the many similar pieces made beginning
+      in the 11th century.\n"
+    typeOfObject: Sheet
+  - artist: "Sesson Sh\u016Bkei "
+    artistDates: "Ca. 1504\u2013ca. 1589"
+    title: Gibbons in a Landscape
+    date: Ca. 1570
+    medium: Pair of six-panel screens; ink on paper
+    size: 62 in. x 11 ft. 5 in
+    institution: The Metropolitan Museum of Art
+    imageFileName: g4_MiriamPellegrino_2_01
+    labelText: "Do not confuse the charming, fluffy creatures, depicted in this painting,
+      with monkeys! They are actually gibbons, a lesser ape, which have enjoyed centuries
+      of religious significance in East Asian Buddhist art. This piece, created by
+      the esteemed Japanese Zen Buddhist monk Sesson Sh\u016Bkei, depicts a popular
+      recurring motif that began in China in the 13th century and then travelled to
+      Japan: gibbons reaching for a reflection of the moon. In this monochrome screen
+      painting, six gibbons, identifiable by their comically long limbs and sweet
+      grimaces, are perched on or above a body of water. They reach their arms toward
+      the ghostly reflection of the full moon in the water below them. Within Asian
+      Buddhism the gibbon signifies an individual on the quest for wisdom and the
+      full moon represents Enlightenment. This motif can be read as practitioners
+      straining to achieve Enlightenment which, frustratingly, prevents Enlightenment
+      from being attained."
+    typeOfObject: Sheet
+  - artist: "Sesson Sh\u016Bkei "
+    artistDates: "Ca. 1504\u2013ca. 1589"
+    title: Gibbons in a Landscape
+    date: Ca. 1570
+    medium: Pair of six-panel screens; ink on paper
+    size: 62 in. x 11 ft. 5 in
+    institution: The Metropolitan Museum of Art
+    imageFileName: g4_MiriamPellegrino_2_02
+    labelText: "Do not confuse the charming, fluffy creatures, depicted in this painting,
+      with monkeys! They are actually gibbons, a lesser ape, which have enjoyed centuries
+      of religious significance in East Asian Buddhist art. This piece, created by
+      the esteemed Japanese Zen Buddhist monk Sesson Sh\u016Bkei, depicts a popular
+      recurring motif that began in China in the 13th century and then travelled to
+      Japan: gibbons reaching for a reflection of the moon. In this monochrome screen
+      painting, six gibbons, identifiable by their comically long limbs and sweet
+      grimaces, are perched on or above a body of water. They reach their arms toward
+      the ghostly reflection of the full moon in the water below them. Within Asian
+      Buddhism the gibbon signifies an individual on the quest for wisdom and the
+      full moon represents Enlightenment. This motif can be read as practitioners
+      straining to achieve Enlightenment which, frustratingly, prevents Enlightenment
+      from being attained."
+    typeOfObject: Sheet
+  - artist: "Sesson Sh\u016Bkei "
+    artistDates: "Ca. 1504\u2013ca. 1589"
+    title: Gibbons in a Landscape
+    date: Ca. 1570
+    medium: Pair of six-panel screens; ink on paper
+    size: 62 in. x 11 ft. 5 in
+    institution: The Metropolitan Museum of Art
+    imageFileName: g4_MiriamPellegrino_2_03
+    labelText: "Do not confuse the charming, fluffy creatures, depicted in this painting,
+      with monkeys! They are actually gibbons, a lesser ape, which have enjoyed centuries
+      of religious significance in East Asian Buddhist art. This piece, created by
+      the esteemed Japanese Zen Buddhist monk Sesson Sh\u016Bkei, depicts a popular
+      recurring motif that began in China in the 13th century and then travelled to
+      Japan: gibbons reaching for a reflection of the moon. In this monochrome screen
+      painting, six gibbons, identifiable by their comically long limbs and sweet
+      grimaces, are perched on or above a body of water. They reach their arms toward
+      the ghostly reflection of the full moon in the water below them. Within Asian
+      Buddhism the gibbon signifies an individual on the quest for wisdom and the
+      full moon represents Enlightenment. This motif can be read as practitioners
+      straining to achieve Enlightenment which, frustratingly, prevents Enlightenment
+      from being attained."
+    typeOfObject: Sheet
+  - artist: "Sesson Sh\u016Bkei "
+    artistDates: "Ca. 1504\u2013ca. 1589"
+    title: Gibbons in a Landscape
+    date: Ca. 1570
+    medium: Pair of six-panel screens; ink on paper
+    size: 62 in. x 11 ft. 5 in
+    institution: The Metropolitan Museum of Art
+    imageFileName: g4_MiriamPellegrino_2_04
+    labelText: "Do not confuse the charming, fluffy creatures, depicted in this painting,
+      with monkeys! They are actually gibbons, a lesser ape, which have enjoyed centuries
+      of religious significance in East Asian Buddhist art. This piece, created by
+      the esteemed Japanese Zen Buddhist monk Sesson Sh\u016Bkei, depicts a popular
+      recurring motif that began in China in the 13th century and then travelled to
+      Japan: gibbons reaching for a reflection of the moon. In this monochrome screen
+      painting, six gibbons, identifiable by their comically long limbs and sweet
+      grimaces, are perched on or above a body of water. They reach their arms toward
+      the ghostly reflection of the full moon in the water below them. Within Asian
+      Buddhism the gibbon signifies an individual on the quest for wisdom and the
+      full moon represents Enlightenment. This motif can be read as practitioners
+      straining to achieve Enlightenment which, frustratingly, prevents Enlightenment
+      from being attained."
+    typeOfObject: Sheet
+  - artist: "Sesson Sh\u016Bkei "
+    artistDates: "Ca. 1504\u2013ca. 1589"
+    title: Gibbons in a Landscape
+    date: Ca. 1570
+    medium: Pair of six-panel screens; ink on paper
+    size: 62 in. x 11 ft. 5 in
+    institution: The Metropolitan Museum of Art
+    imageFileName: g4_MiriamPellegrino_2_05
+    labelText: "Do not confuse the charming, fluffy creatures, depicted in this painting,
+      with monkeys! They are actually gibbons, a lesser ape, which have enjoyed centuries
+      of religious significance in East Asian Buddhist art. This piece, created by
+      the esteemed Japanese Zen Buddhist monk Sesson Sh\u016Bkei, depicts a popular
+      recurring motif that began in China in the 13th century and then travelled to
+      Japan: gibbons reaching for a reflection of the moon. In this monochrome screen
+      painting, six gibbons, identifiable by their comically long limbs and sweet
+      grimaces, are perched on or above a body of water. They reach their arms toward
+      the ghostly reflection of the full moon in the water below them. Within Asian
+      Buddhism the gibbon signifies an individual on the quest for wisdom and the
+      full moon represents Enlightenment. This motif can be read as practitioners
+      straining to achieve Enlightenment which, frustratingly, prevents Enlightenment
+      from being attained."
+    typeOfObject: Sheet
+  - artist: "Sesson Sh\u016Bkei "
+    artistDates: "Ca. 1504\u2013ca. 1589"
+    title: Gibbons in a Landscape
+    date: Ca. 1570
+    medium: Pair of six-panel screens; ink on paper
+    size: 62 in. x 11 ft. 5 in
+    institution: The Metropolitan Museum of Art
+    imageFileName: g4_MiriamPellegrino_2_06
+    labelText: "Do not confuse the charming, fluffy creatures, depicted in this painting,
+      with monkeys! They are actually gibbons, a lesser ape, which have enjoyed centuries
+      of religious significance in East Asian Buddhist art. This piece, created by
+      the esteemed Japanese Zen Buddhist monk Sesson Sh\u016Bkei, depicts a popular
+      recurring motif that began in China in the 13th century and then travelled to
+      Japan: gibbons reaching for a reflection of the moon. In this monochrome screen
+      painting, six gibbons, identifiable by their comically long limbs and sweet
+      grimaces, are perched on or above a body of water. They reach their arms toward
+      the ghostly reflection of the full moon in the water below them. Within Asian
+      Buddhism the gibbon signifies an individual on the quest for wisdom and the
+      full moon represents Enlightenment. This motif can be read as practitioners
+      straining to achieve Enlightenment which, frustratingly, prevents Enlightenment
+      from being attained."
+    typeOfObject: Sheet
+  - artist: Zhao Mengfu
+    artistDates: 1254-1322
+    title: Elegant Rock and Sparse Trees
+    date: 1300
+    medium: ink on paper
+    size: 27.5 x 62.8 cm
+    institution: The Palace Museum
+    imageFileName: g2_WangXi_2
+    labelText: "Zhao Mengfu, a descendant of the first emperor of the Song Dynasty,
+      was a scholar, painter, and calligrapher during the Yuan Dynasty. As an important
+      innovator in the history of Chinese literati painting, Zhao Mengfu strived to
+      revive the antique painting style and old motifs imbued with new ideas. Rejecting
+      the previous Northern Song artistic pursuit of naturalistic representation,
+      Zhao advocated for the equivalence between calligraphy and painting, which is
+      evident in this work. To capture the spirit of each subject and display the
+      richness of calligraphic brushwork, Zhao Mengfu made use of a wide range of
+      ink tones and brushstrokes, including \u201Cflying-white\u201D (feibai) for
+      rocks, \u201Clarge seal script\u201D (dazhuan) for trees, and \u201Cdivided
+      eight\u201D (bafen) for bamboos. By \u201Cwriting\u201D the rocks and plants,
+      Zhao Mengfu opened the gate for the revival-and-synthesis radical transformation
+      of the literati-painting movement."
+    typeOfObject: Handscroll
+  - artist: Zhao Ji
+    artistDates: 1082-1125
+    title: Cranes of Good Omen
+    date: 1112
+    medium: ink and color on silk
+    size: 51 x 138.2cm
+    institution: Liaoning Provincial Museum
+    imageFileName: g2_WangXi_1
+    labelText: "Emperor Huizong, the eighth emperor of the Song Dynasty, personal
+      name Zhao Ji, was an accomplished poet, painter, and calligrapher who invented
+      the \u201Cslender gold\u201D style of calligraphy. Though he was not a competent
+      leader of the state, Emperor Huizong\u2019s passion for art propelled the development
+      of art to a high peak in Chinese history. On the evening of February 26, 1112,
+      twenty white cranes appeared in the azure sky above the palace gate, encircling
+      with auspicious clouds. Emperor Huizong recorded this unusual scene in the form
+      of a jewel-like painting and calligraphy. The entirely bilateral symmetrical
+      composition, the sophistication of contour, and the flatness of the image put
+      an emphasize on the crane figuration and its auspicious symbolism. Under this
+      circumstance, this auspicious sign was read as blessings from heaven in response
+      to the advisable rule of Emperor Huizong."
+    typeOfObject: Handscroll
+  - artist: Wang Xizhi
+    artistDates: 303-361
+    title: 'Preface to the Orchid Pavilion '
+    date: Tang Dynasty Copy (618-907)
+    medium: ink on paper
+    size: 24.5 x 69.9 cm
+    institution: Palace Museum, Bejing
+    imageFileName: g1_CatSensenig_1
+    labelText: "In 353, during the Spring Purification Festival, Wang Xizhi and fellow
+      scholars gathered along a stream to celebrate with a drinking game. Cups of
+      wine floated down the stream, and when one stopped, the scholar closest to it
+      had to compose a poem or drink as a penalty. Inspired by the poems written at
+      the party, Wang Xizhi drunkenly composed this piece, lamenting the passage of
+      time and aspiring for longevity. \n\nWang Xizhi is the best-known calligrapher
+      of running script, exemplified in this piece. This script lends itself to artistic
+      individuality through more informal flowing strokes. Throughout the Preface,
+      various characteristics of his style are visible: difference in character size
+      and stroke thickness, erasure of mistakes, and uniquely distinct writings of
+      repeated characters. While Wang Xizhi\u2019s original work is buried in the
+      tomb of Emperor Taizong, many copies were made during the Tang Dynasty. This
+      version created by Feng Chengsu has long been regarded as the most superior. "
+    typeOfObject: Handscroll
+  - artist: Huai-su
+    artistDates: 730s-770s
+    title: Autobiography
+    date: Tang Dynasty (618-907)
+    medium: ink on paper
+    size: 28.3 x 755 cm
+    institution: National Palace Museum, Taipei
+    imageFileName: g1_CatSensenig_3
+    labelText: "Unlike most Chinese calligraphers who were scholar-officials, Huai-su
+      was a monk known for his wild cursive script characterized by adjoining and
+      abbreviated strokes. This script enabled the free expression of a calligrapher\u2019s
+      mood. Huai-su\u2019s cursive writings were said to resemble his free spirit,
+      which is manifested in his Autobiography. In this piece, only 14 of the 126
+      lines comprise his memoir, while the rest are his transcriptions of the poems
+      gifted by his literati friends. Huai-su\u2019s lines spontaneously fill this
+      handscroll with large and energetic characters. Characteristic of his style,
+      these rounded but defined strokes were written with a fine brush. Exposure of
+      the brush tip where it lifts from the paper is visible, embodying the common
+      descriptor of his style as \u201Csteel wires and silver hooks.\u201D However,
+      even with such erratic strokes, a natural rhythmic flow of ink persists, giving
+      this piece a sense of order and linear uniformity."
+    typeOfObject: Handscroll
+  - artist: Nishikawa Sukenobu
+    artistDates: 1671-1750
+    title: Lady Ise by the Riverbank
+    date: Late 18th Century
+    medium: ink and color on paper
+    size: 85.8 x 33 cm
+    institution: The Metropolitan Museum of Art
+    imageFileName: g3_SophieWeaver_1
+    labelText: "Clad in a beautiful kimono, Lady Ise stands at the riverbank, lost
+      in thought. Lady Ise by the Riverbank features the 9th to 10th century Japanese
+      poet Lady Ise, painted by Nishikawa Sukenobu. Sukenobu is known for his artistry
+      with woman and kimonos, featured here with his rendering of Lady Ise\u2019s
+      kimono in intricate, delicate detail. The sophistication given to Lady Ise reveals
+      both her renown as a poet and her place in society. The poem at the top reads:\n\nMust
+      we pass through the world\nwithout meeting even for a time\nas short as the
+      interval between\nthe nodes of the reeds at Naniwa Bay?\n\nWith Lady Ise\u2019s
+      curious expression complementing the poem\u2019s tone, one starts to question
+      what could have inspired such melancholy.\n"
+    typeOfObject: Hanging Scroll
+  - artist: Lou Guan
+    artistDates: Mid to Late 13th Century
+    title: Xie An at East Mountain
+    date: Late 13th Century
+    medium: Ink Painting
+    size: 175.3 x 88.3 cm.
+    institution: Asia Society Museum, New York.
+    imageFileName: g5_EmmaEvans_1
+    labelText: 'Lou Guan was active during the mid to late thirteenth century in China.
+      Xie An at East Mountain shows Xie An and female companions visiting a recluse
+      in the mountains. The painting includes three different points of view for the
+      three areas of focus within the painting: foreground, middle ground, and background.
+      The foreground, pictured from above, gives an intimate view of the people through
+      the trees. The middle ground, viewed at eye level, portrays the waterfall, trees,
+      and man sitting under the tree as if looking straight at them. The background
+      is shown from a below perspective, creating a monumental effect of the mountain
+      as it fades into the distance and up into the sky.'
+    typeOfObject: Hanging Scroll
+  - artist: Su Renshan
+    artistDates: 1814-50?
+    title: The Immortal Li Tieguai
+    date: Qing Dynasty, 1644-1911
+    medium: ink on paper
+    size: 115.6 x 40 cm
+    institution: The Metropolitan Museum of Art
+    imageFileName: g3_SophieWeaver_2
+    labelText: "Finding his body cremated upon his return from the celestial world,
+      Li Teugai enters the body of a deformed beggar instead. So goes the legend of
+      the immortal Li Tieguai, one of the Eight Immortals of the Taoist pantheon.
+      Painted by Su Renshan, a Chinese artist who spent most of his life in isolation,
+      The Immortal Li Tieguai features strong, rough brushwork that contrasts with
+      the tranquil feeling of the painting. With Su Renshan\u2019s work having been
+      dismissed while he was alive, this piece reflects his frustration towards his
+      lack of recognition. Despite this monochrome painting\u2019s simplicity, The
+      Immortal Li Tieguai shows how an artist can express themselves beyond the surface
+      level viewing."
+    typeOfObject: Hanging Scroll
+  - artist: Shitao
+    artistDates: '1642-1707 '
+    title: Landscape for Yongweng
+    date: '1687-1690 '
+    medium: Ink on Paper
+    size: 177.5 x 67 cm.
+    institution: Saint Louis Art Museum, Saint Louis
+    imageFileName: g5_EmmaEvans_2
+    labelText: "Shitao was a Chinese painter who was active during the Qing Dynasty.
+      In this time paintings methods revolved around creating pieces in similar styles
+      to older ones. While Shitao respected the older styles, he preferred to build
+      on to them as a stylistic base. His style includes washes, bold brush strokes,
+      and using white space to represent distance. The figures shown are two people
+      fishing in the river while above them is a pavilion. The calligraphy at the
+      top of the painting emphasizes Shiato\u2019s ideals of having a personal style,
+      which is shown in specific painting choices throughout the piece such as the
+      use of dramatic ink washes in the tops of the mountains and the shadows of rocks
+      and trees throughout the piece."
+    typeOfObject: Hanging Scroll
+  - artist: 'Unknown Artist (Japanese) '
+    artistDates: n.d.
+    title: Landscape with Mountains in Distance
+    date: n.d.
+    medium: Sumi ink on rice paper mounted on heavier paper
+    size: 25.4 x 24.765 cm.
+    institution: Smith College Museum of Art, Northampton
+    imageFileName: g5_1
+    labelText: "Monochrome landscape painting flourished in Japan during the 14th
+      century, influenced greatly by Yuan and Ming artists in China. Unlike Yuan and
+      Ming artists, who were mostly influenced themselves by Neo-Confucianism, Japanese
+      artists were mostly devoted to Zen Buddhism. However, the center of discussion
+      in landscape painting between the two countries was the same: the persuasion
+      of the fundamental truth, either in self or the outside world.\n\nThe simplicity
+      of \u201CLandscape with Mountains in Distance\u201D mirrors the scholarly paintings
+      of Yuan and Ming China, but is distinguished from them by its scale. It is difficult
+      to categorize\u2014the mountain is not as monumental as would be expected from
+      a hanging scroll, but not as distant or simplistic as a typical handscroll.
+      It is softly inked, with little variation in strokes and tone. This creates
+      a thoughtful effect as the scenery seems to slowly appear, or perhaps to fade
+      away."
+    typeOfObject: Sheet
+  - artist: Ahn Jung-sik
+    artistDates: 1861-1919
+    title: Still Life (pair)
+    date: 19th-20th century
+    medium: Hanging scroll; ink and color on paper
+    size: ' 48 x 12 1/2 (for each scroll)'
+    institution: Smith College Museum of Art
+    imageFileName: g4_1
+    labelText: "This pair of scrolls, with its muted palette and abundant negative
+      space, may appear simple, but further examination proves fruitful\u2014in more
+      than one way! Ahn\u2019s work exemplifies gimyeong jeoljido, a distinct genre
+      of still life paintings emerged in the nineteenth century during the Joseon
+      dynasty (1392-1910) and known for blending Western and Eastern perspectives.
+      The artist juxtaposes antique Chinese vessels with botanical items\u2014a jue
+      drinking cup, a zun wine container, plum blossoms, Buddha\u2019s hand citruses,
+      lotus root, and a Chinese cabbage amongst other plants\u2014demonstrating Korea\u2019s
+      cultural exchange with China. Two Chinese quatrains in running-cursive script,
+      one by the Ming dynasty (1368-1644) poet Wang Yi and another by the Qing (1644-1911)
+      poet Zhang Wentao, make reference to the pictorial motifs of the plum and wine,
+      respectively. Himself a court painter, Ahn traveled with the Koean diplomatic
+      mission to Beijing in 1881. After the Joseon dynasty\u2019s collapse, he continued
+      to practice Korean ink painting.\nPoem 1 (scroll on the left):\nThe Pavilion
+      of Poetry in Yangzhou is covered in the fragrant dusts;\n\u63DA\u5DDE\u8A69\u95A3\u63A9\u82B3\u5875\nThe
+      cold spring is illuminated in the myriad plum blossoms;\n\u842C\u843C\u5343\u8469\u51B7\u7167\u6625\nA
+      sound of flute travels ten miles from the beaded curtain;\n\u5341\u91CC\u73E0\u7C3E\u4E00\u8072\u7B1B\nThe
+      east wind, the broken heart, the figure leans against the pavilion.\n\u6771\u98A8\u8178\u65B7\u501A\u6A13\u4EBA\n\nPoem
+      2 (scroll on the right)\uFF1A\nWearing the purple robe and golden girdle [a
+      type of attire reserved for high-ranking officials], I slept in the tavern;\n\u7D2B\u888D\u91D1\u5E36\u9152\u5BB6\u7720\nAfter
+      drunkenness, my poetic soul desires to ascend to heaven;\n\u9189\u5F8C\u8A69\u9B42\u6B32\u4E0A\u5929\nNothing
+      else is as delightful in a hundred and twenty thousand years;\n\u5341\u4E8C\u842C\u5E74\u7121\u6B64\u6A02\nI
+      shout out to my predecessor Li Qinglian [the famous Tang dynasty poet Li Bai].\n\u5927\u547C\u524D\u8F29\u674E\u9752\u84EE\n"
+    typeOfObject: Hanging Scroll
+  - artist: Ahn Jung-sik
+    artistDates: 1861-1919
+    title: Still Life (pair)
+    date: 19th-20th century
+    medium: Hanging scroll; ink and color on paper
+    size: ' 48 x 12 1/2 (for each scroll)'
+    institution: Smith College Museum of Art
+    imageFileName: g4_2
+    labelText: "This pair of scrolls, with its muted palette and abundant negative
+      space, may appear simple, but further examination proves fruitful\u2014in more
+      than one way! Ahn\u2019s work exemplifies gimyeong jeoljido, a distinct genre
+      of still life paintings emerged in the nineteenth century during the Joseon
+      dynasty (1392-1910) and known for blending Western and Eastern perspectives.
+      The artist juxtaposes antique Chinese vessels with botanical items\u2014a jue
+      drinking cup, a zun wine container, plum blossoms, Buddha\u2019s hand citruses,
+      lotus root, and a Chinese cabbage amongst other plants\u2014demonstrating Korea\u2019s
+      cultural exchange with China. Two Chinese quatrains in running-cursive script,
+      one by the Ming dynasty (1368-1644) poet Wang Yi and another by the Qing (1644-1911)
+      poet Zhang Wentao, make reference to the pictorial motifs of the plum and wine,
+      respectively. Himself a court painter, Ahn traveled with the Koean diplomatic
+      mission to Beijing in 1881. After the Joseon dynasty\u2019s collapse, he continued
+      to practice Korean ink painting.\nPoem 1 (scroll on the left):\nThe Pavilion
+      of Poetry in Yangzhou is covered in the fragrant dusts;\n\u63DA\u5DDE\u8A69\u95A3\u63A9\u82B3\u5875\nThe
+      cold spring is illuminated in the myriad plum blossoms;\n\u842C\u843C\u5343\u8469\u51B7\u7167\u6625\nA
+      sound of flute travels ten miles from the beaded curtain;\n\u5341\u91CC\u73E0\u7C3E\u4E00\u8072\u7B1B\nThe
+      east wind, the broken heart, the figure leans against the pavilion.\n\u6771\u98A8\u8178\u65B7\u501A\u6A13\u4EBA\n\nPoem
+      2 (scroll on the right)\uFF1A\nWearing the purple robe and golden girdle [a
+      type of attire reserved for high-ranking officials], I slept in the tavern;\n\u7D2B\u888D\u91D1\u5E36\u9152\u5BB6\u7720\nAfter
+      drunkenness, my poetic soul desires to ascend to heaven;\n\u9189\u5F8C\u8A69\u9B42\u6B32\u4E0A\u5929\nNothing
+      else is as delightful in a hundred and twenty thousand years;\n\u5341\u4E8C\u842C\u5E74\u7121\u6B64\u6A02\nI
+      shout out to my predecessor Li Qinglian [the famous Tang dynasty poet Li Bai].\n\u5927\u547C\u524D\u8F29\u674E\u9752\u84EE\n"
+    typeOfObject: Hanging Scroll
+  - artist: Yan Zhengqing
+    artistDates: 709-785 A.D.
+    title: The Draft of the Eulogy for Nephew Jiming
+    date: 758 A.D.
+    medium: Ink on paper
+    size: 28.3 x 75.5 cm
+    institution: National Palace Museum, Taipei
+    imageFileName: g1_SiningLyu_1
+    labelText: "The An Lushan rebellion destroyed not only the order of centralized
+      Tang dynasty but also the loyal soldier Yan Zhengqing\u2019 heart and soul.
+      Yan Zhengqing, a general who fought against the rebels found out that his nephew
+      was brutally killed in the rebellion. Zhengqing who was known for his upright
+      calm and clumsy regular script, wrote a eulogy for his nephew with full of emotional
+      outbursts. It is an unconventional art work such that he changed his calligraphy
+      style at least three times in the writing. He began with calm regular script
+      and increasingly wrote more cursive. Yan crossed out words and changed the draft
+      whenever he felt compelled to follow his emotions. We can witness his coping
+      mechanism. He tried to reconcile with himself on what happened. This piece became
+      one of the highest achievements in Chinese caligraphy because it not  only represents
+      the best artwork of the time but also the heart of an upright and good confucius
+      man."
+    typeOfObject: Handscroll
+  - artist: Xu Bing
+    artistDates: 1955-
+    title: Art for the People
+    date: 1999
+    medium: Mixed Media Installation
+    size: 1097.3 x 273.5, cm
+    institution: Modern Art in New York
+    imageFileName: g1_SiningLyu_2
+    labelText: China red background, yellow ink, square character, the art piece encompasses
+      many hashtag Chinese element but a Chinese will never be able to recognize or
+      read the words unless they can read English and know the transcribing mechanism
+      of these square words. Xu bing, the mastermind behind this piece is one of the
+      most recognized artists of contemporary art. He tries to reconcile and reexamining
+      modern Chinese identity especially for Chinese diaspora who lives in Anglo-countries.
+      He used the eight laws of Yong and transcribed English alphabet into Chinese
+      stroke, combined English words into a square block, to express the universal
+      cross cultural value of art. Art should not be only available for the elite.
+      Calligraphy is a hard practice that a traditional artist need to spend decades
+      to become an expert on it. Xu Bing combines the essence of calligraphy and made
+      it ready to use for commoners. He even open classes to each person who wants
+      to learn this style of art. Art is for the people
+    typeOfObject: Hanging Scroll
+  - artist: Li Gongnian
+    artistDates: early 12th century
+    title: Winter Evening Landscape
+    date: ca. 1120
+    medium: ink and light colors on silk
+    size: 129.6 x 48.3 cm
+    institution: Princeton University Art Museum
+    imageFileName: g5_XufenLiu_1
+    labelText: "Li Gongnian was active during the early twelfth century when the dynastic
+      change from the Northern Song to the Southern Song occurred. His work is characteristic
+      of this transitional period. In this piece, he combined the harshness and magnificence
+      of nature in Northern Song paintings with the softness and mildness in the Southern
+      Song landscape. Li painted the mountains in the background with smooth and soft
+      strokes and depicted the barren trees and rocks in the foreground with more
+      detailed and heavier brushwork following the \u201CCold Forest\u201D style,
+      typical of the Northern Song landscape."
+    typeOfObject: Hanging Scroll
+  - artist: Song Xu
+    artistDates: 1525 - ca. 1606
+    title: 'Eighteen Views of Wuxing: Guiyun Monastery'
+    date: 1500s
+    medium: ink and color on silk
+    size: 26.4 x 28.4 cm
+    institution: The Cleveland Museum of Art
+    imageFileName: g5_XufenLiu_2
+    labelText: "In contrast with paintings in Song dynasties, the Ming dynasty painter
+      Song Xu\u2019s work is much more lively. Instead of barren-looking, monochromatic
+      trees and rocks, Song Xu depicted round hills and thick forests in the valley
+      using a variety of colors. The reason for this difference is that, in addition
+      to reviving the tradition of painting mountains in the Southern Song dynasty,
+      the Ming dynasty artists also developed further the more colorful, vibrant Yuan
+      dynasty style. This work is an example of the combination fo Southern Song tradition
+      and Yuan style."
+    typeOfObject: Sheet
+  - artist: Zhao Mengfu
+    artistDates: "1254\u20131322"
+    title: Twin Pines, Level Distance
+    date: "1254\u20131322"
+    medium: Handscroll; ink on paper
+    size: 26.8 x 107.5 cm
+    institution: The Metropolitan Museum of Art; New York
+    imageFileName: g5_xinyuchu_1
+    labelText: Literati painters of the Yuan dynasty, pioneered by Zhao Mengfu,  shifted
+      the artistic pursuit from naturalistic representation to self-expression. Paintings
+      of nature became a means for the artist to express his ideas and communicate
+      with his educated peers. In this painting, Zhao Mengfu painted the pine trees
+      as a way of manifesting his political strength in the Mongol court. This picture
+      also demonstrated through the application of a variety of calligraphic brushwork
+      and arrangement of the subjects the artistic concept of "painting and calligraphy
+      as one," which he fervently promoted. Zhao put the title to the right of the
+      pine trees and inscriptions to the left side of the handscroll, a format that
+      was often used in works of calligraphy.
+    typeOfObject: Handscroll
+  - artist: 'Shen Zhou '
+    artistDates: "(1427\u20131509)"
+    title: 'Anchorage on a Rainy Night '
+    date: "(1427\u20131509)"
+    medium: 'Hanging scroll, ink on paper, '
+    size: "80 \xD7 33.7 cm"
+    institution: The Metropolitan Museum of Art; New York
+    imageFileName: g5_xinyuchu_2
+    labelText: "The hanging scroll marked the maturity of Shen Zhou as a literati
+      artist. It illustrated the view of a stream of water, banked by tall trees and
+      mountain. Shen simplified his previous complicated painting techniques, and
+      drew the fundamental components of the subjects from the Yuan artist Huang Gongwang.
+      He used pale ink to contour the outline of the subjects at first and then went
+      over the outlines with darker and denser ink. The result of this was a feeling
+      of mistiness you can perceive. \nShenzhou painted the painting at the age of
+      fifty, less than two months after his father\u2019s death. The scenery symbolized
+      an expression of a rather complicated emotion during this special time of his
+      both personal and artistic life. The mixture of dejected loneliness due to the
+      loss of his fatherly figure, and warmly solace he could find among his friends.
+      \n"
+    typeOfObject: Hanging Scroll
+  - artist: Artist Unknown
+    artistDates: ca. 1500
+    title: Female Immortals Gathering Herbs
+    date: China ca. 1500
+    medium: Hanging scroll mounted on panel, ink and color on silk
+    size: 154.6 x 95.1 cm.
+    institution: Freer Gallery of Art
+    imageFileName: g3_MorganDolmatch_1
+    labelText: "At the edge of a lake in serene mountains sit two female Daoist Immortals,
+      one of whom stares out of the work\u2014she is the immortal Magu. Her cape,
+      apron of leaves, and basket filled with flowers and lingzhi, a mushroom believed
+      to bestow immortality, proclaim her role as a deity of longevity. Magu and another
+      Immortal rest on a rock in a monumental Northern Song style landscape, denoted
+      as a sacred space by the grazing deer and the crane flying overhead. Brought
+      out from the monochrome background with their fine outlining, colored clothing,
+      and highlighted features, these women bask in the eternal sacred landscape,
+      two of the many Daoist Immortals said to inhabit the realm. Though the artist
+      is unknown, this only emphasizes the timelessness and versatility of this Daoist
+      subject in Chinese ink art. "
+    typeOfObject: Hanging Scroll
+  - artist: Koboku
+    artistDates: ca. early 16th century
+    title: Female Daoist Figure in Landscape
+    date: Japanese ca. early 16th century
+    medium: Hanging scroll, ink on paper
+    size: 27 x 44.4 cm.
+    institution: Cleveland Museum of Art
+    imageFileName: g3_MorganDolmatch_2
+    labelText: "A Japanese Zen Buddhist monk-painter, Koboku steps out of his usual
+      subject choice with this painting of the Daoist Immortal Magu. He depicts the
+      female Immortal with her usual cloak, leaf apron, and basket of flowers and
+      lingzhi along with her bird-claw-esque fingernails; yet, there is a certain
+      softness to her gaze, hair, and clothes. Magu stands out from the sharpness
+      of the world around her, as does the auspicious deer to her side. The adapted
+      Chinese monochrome style ties in with the Immortal\u2019s Chinese origins, but
+      Koboku renders both in his own way, favoring variations in tonality, stroke
+      type, and shading style. Also notice this work\u2019s intimate size and the
+      prominent space that the Immortal takes up on the paper. Magu\u2019s gentle
+      expression and wry smile animate her black-and-white form and like the deer,
+      the audience is asked to gaze at her from a close perspective."
+    typeOfObject: Hanging Scroll
+  - artist: 'Muqi '
+    artistDates: 'Dates unknown '
+    title: The Shrimp Eater
+    date: 1254-1256
+    medium: Ink on paper
+    size: 84.7 x 31.4
+    institution: Private Collection
+    imageFileName: G3_KatieRebhun_1
+    labelText: "The Shrimp Eater is a legendary figure in the world of Chan (zen)
+      Buddhist monks. He represents the break from traditional Buddhism that Chan
+      monks took to. He gleefully disregards the vegetarianism integral to traditional
+      forms of Buddhism, and enjoys freshly caught shrimp. Though depicted rather
+      regularly, Muqi paints in a distinctive style, incorporating detail common is
+      court painting and balancing visible drapery in the fabric of the Shrimp Eater\u2019s
+      shirt with the apparition painting aesthetic of variance in shades of ink, emphasis
+      on brushstroke, and minimalism."
+    typeOfObject: Hanging Scroll
+  - artist: Mokuan Reien
+    artistDates: D. 1345
+    title: The Four Sleepers
+    date: 14th century
+    medium: Ink on paper
+    size: 73.7 x 32.5 cm
+    institution: Maeda Ikutokukai, Tokyo
+    imageFileName: G3_KatieRebhun_2
+    labelText: "Mokuan\u2019s rendition of legendary Chan(zen) Buddhist figures is
+      typical of figure painting, especially apparition painting, the aetherial aesthetic
+      popular during the Southern Sung dynasty in the Chan school of painting. Mokuan
+      was Japanese, but studied in a Chinese Chan monastery.The subjects- the monk
+      Fengken, his pet tiger, poet Hanshan, and monk Shide- were popular subjects
+      of painting. Sleepers, however, goes beyond the \u201Cshadow-like\u201D aspects
+      of apparition painting, and uses curved lines to bring corporeal form to the
+      sleepers using techniques of Southern Sung court painters.The subjects are whimsical,
+      napping and resting on each other, forming one mass."
+    typeOfObject: Hanging Scroll
+  - artist: Shitao (Zhu Ruoji)
+    artistDates: 1642 - 1707
+    title: Bamboo in Wind and Rain
+    date: 1694
+    medium: Ink on Paper
+    size: 87 3/4 x 30 in
+    institution: The Metropolitan Museum of Art
+    imageFileName: g2_KirstenAppell_1
+    labelText: "Unlike most painters of the time who worked at the imperial court
+      or in monasteries, Shitao owned and operated his own studio. It is likely then
+      that this piece was a commissioned work. Regardless of it\u2019s obscure history,
+      It is clear that this piece was inspired by a quote associated with an earlier
+      depiction of bamboo by the artist Wen Tong [1018-1079]. The full quote is replicated
+      on the left side of the painting. The heart of the quote \u201C\u2026Only after
+      much observation of the transformations of bamboo\u201D can one completely understand
+      it\u2026\u201D serves to briefly outline a story and setting for the otherwise
+      ambiguous image. Conversely, the painting illustrates the transformable nature
+      of bamboo, and thus illuminate the meaning of the quote.\n"
+    typeOfObject: Hanging Scroll
+  - artist: Gong Xian
+    artistDates: 1617 - 1689
+    title: Landscapes with Poems
+    date: 1688
+    medium: Ink on Paper
+    size: 10 3/4 x 16 1/8 in.
+    institution: 'The Metropolitan Museum of Art '
+    imageFileName: g2_KirstenAppell_2
+    labelText: "Unlike most painters of the time who worked at the imperial court
+      or in monasteries, Shitao owned and operated his own studio. It is likely then
+      that this piece was a commissioned work. Regardless of it\u2019s obscure history,
+      It is clear that this piece was inspired by a quote associated with an earlier
+      depiction of bamboo by the artist Wen Tong [1018-1079]. The full quote is replicated
+      on the left side of the painting. The heart of the quote \u201C\u2026Only after
+      much observation of the transformations of bamboo\u201D can one completely understand
+      it\u2026\u201D serves to briefly outline a story and setting for the otherwise
+      ambiguous image. Conversely, the painting illustrates the transformable nature
+      of bamboo, and thus illuminate the meaning of the quote.\n"
+    typeOfObject: Sheet
+  - artist: C.C. Wang
+    artistDates: 1907-2003
+    title: Shou (Long Life)
+    date: 1976
+    medium: ink on paper
+    size: 26.75 x 17.25
+    institution: Asian Art Museum
+    imageFileName: g1_FionaJicha_2
+    labelText: "C.C. Wang was an avid art collector, scholar, and painter. Shou (Long
+      Life) is an excellent example of the influence of Wang\u2019s traditional training
+      in East Asian calligraphy. The hanging scroll is a perfect rendition of the
+      Chinese character shou, meaning \u201Clongevity\u201D or \u201Clong life.\u201D
+      Wang employs a brush heavily saturated with rich, obsidian ink, to the point
+      of oversaturation; in some places you can see where the ink has bled, notably
+      towards the bottom of the character. The calligraphy perfectly embodies the
+      meaning of shou, with its carefree yet intentional style that appears to have
+      been done in one continuous stroke, symbolic of a long, prosperous life led
+      with intentionality of a master calligrapher and the spontaneity of the semi-cursive
+      script. The characters on the left side of the hanging scroll indicate that
+      Wang dedicated this piece to Xue Fu on his 90th birthday in 1976. "
+    typeOfObject: Hanging Scroll
+  - artist: Lianfang Songfou
+    artistDates: 19th Century
+    title: Calligraphy Couplet
+    date: 19th Century
+    medium: Silk
+    size: 67.5 X 14.75
+    institution: Metropolitan Museum of Art
+    imageFileName: g1_FionaJicha_1
+    labelText: "Although at first glance Calligraphy Couplet may look like an ink
+      painting, this piece is actually a tapestry woven with silk. It features a poetic
+      couplet which combines two different poems by renowned Song Dynasty poet Su
+      Shi:\n\u201CClear spirit and cool mind keep one from the mundane\nGood harvest
+      and social harmony create ease.\u201D\n\tThe polka-dotted red background represents
+      spotted bamboo, an iconic symbol in Chinese mythology. The myth dictates that
+      after the death of the legendary Emperor Shun, the tears of his wives speckled
+      the bamboo trees outside the palace, thus creating spotted bamboo. There does
+      not appear to be any link between the myth and the contents of Su Shi\u2019s
+      poem. However, from a purely aesthetic stance, the calligraphy and the spotted
+      background is a striking combination. The tapestry has a precision and exactness
+      that radiates tranquility, from the practical and efficient clerical script
+      to the concentric circles of the spotted bamboo."
+    typeOfObject: Hanging Scroll
+  - artist: Emperor Huizong
+    artistDates: 1018-1135
+    title: 'Finches and Bamboo '
+    date: early 12th century
+    medium: Ink and color on silk
+    size: 13.75 in x 27 ft 6.3125 in
+    institution: The Metropolitan Museum of Art
+    imageFileName: g4_KerryLeCure_1
+    labelText: "Finches and Bamboo is a piece by the eighth emperor of the Song dynasty,
+      Emperor Huizong. He was both a major patron of the arts, as well as an accomplished
+      artist himself. Emperor Huizong\u2019s work is known to appear to be very deliberately
+      objective, which we can see in the careful brushwork throughout the piece. This
+      piece is particularly interesting with its bold use of color to highlight the
+      bamboo leaves, as well as the fine detail of the finches. If you look closely,
+      you can see that the eyes of the finches are painted using a lacquer, making
+      them appear to be more lifelike. Despite Emperor Huizong\u2019s dedication to
+      objectivity, his work is still stylized, which captures the very essence of
+      nature in its own way."
+    typeOfObject: Handscroll
+  - artist: Attributed to Fachang Muqi
+    artistDates: 1220-1280
+    title: Willow and Magpie
+    date: mid-1200s
+    medium: Ink on paper
+    size: 23.75 in x 12.1875 in
+    institution: The Cleveland Museum of Art
+    imageFileName: g4_KerryLeCure_2
+    labelText: "Magpies are often seen as an auspicious symbol in Chinese culture.
+      Willow and Magpie makes use of negative space in order to draw the eye up to
+      the magpie resting on the branch of a willow tree. The brushwork used in this
+      piece gives the magpie depth\u2014see how the tonal variation in ink makes the
+      magpie feel less flat. If you think about the contrast between the magpie and
+      the space around it, your eye is drawn to the bird. It is also interesting to
+      look at how the brushstrokes used to create the magpie differ from the strokes
+      used to create the willow: while the magpie is made up for broad, smooth strokes,
+      the willow is made of short, jagged strokes as well as some speckling. This
+      piece is attributed to Muqi, who was a deeply influential artist with impacts
+      lasting into the fourteenth century."
+    typeOfObject: Hanging Scroll
+  - artist: Attributed to Wang Xizhi
+    artistDates: 303-361
+    title: Calligraphy couplet
+    date: 
+    medium: Ink rubbing
+    size: x
+    institution: Smith College Museum of Art, Northampton
+    imageFileName: g1_1
+    labelText: "This Chinese couplet comprises of two complementary ink rubbings.
+      Before the introduction of photography, rubbing was the primary technique for
+      faithfully reproducing the calligraphy carved on stone stele. Many of these
+      delicate and precise reproductions of masterpieces have been cherished as artworks
+      by generations of connoisseurs. The two columns of this couplet can be translated
+      as \u201CLiterary works transform the Creation, and loyalty and filial piety
+      make sound strategies.\u201D The signature appears to be Wang Xizhi (303-361),
+      who has long been regarded as the greatest of Chinese calligraphers. Wang was
+      known for his mastery of the running script, and his calligraphic style is defined
+      as \u201Cunrestrained, elegant, and refined.\u201D Unlike the tightly composed
+      characters with crisply pointed ends in his Preface to the Orchid Pavilion,
+      however, the angular and broad strokes in this couplet make its attribution
+      to Wang Xizhi questionable. (Fiona Jicha, Cat Sensenig, Sining Lyu)"
+    typeOfObject: Hanging Scroll
+  - artist: Attributed to Wang Xizhi
+    artistDates: 303-361
+    title: Calligraphy couplet
+    date: 
+    medium: Ink rubbing
+    size: x
+    institution: Smith College Museum of Art, Northampton
+    imageFileName: g1_2
+    labelText: "This Chinese couplet comprises of two complementary ink rubbings.
+      Before the introduction of photography, rubbing was the primary technique for
+      faithfully reproducing the calligraphy carved on stone stele. Many of these
+      delicate and precise reproductions of masterpieces have been cherished as artworks
+      by generations of connoisseurs. The two columns of this couplet can be translated
+      as \u201CLiterary works transform the Creation, and loyalty and filial piety
+      make sound strategies.\u201D The signature appears to be Wang Xizhi (303-361),
+      who has long been regarded as the greatest of Chinese calligraphers. Wang was
+      known for his mastery of the running script, and his calligraphic style is defined
+      as \u201Cunrestrained, elegant, and refined.\u201D Unlike the tightly composed
+      characters with crisply pointed ends in his Preface to the Orchid Pavilion,
+      however, the angular and broad strokes in this couplet make its attribution
+      to Wang Xizhi questionable. (Fiona Jicha, Cat Sensenig, Sining Lyu)"
+    typeOfObject: Hanging Scroll
+  - artist: "Sess\u014D T\u014Dy\u014D, Japanese"
+    artistDates: 1420-1506?
+    title: Bodhidharma Crossing the Yangtze River on a Reed
+    date: 15th Century
+    medium: Ink on paper, hanging scroll
+    size: 185.42 x 49.53 cm
+    institution: Smith College Museum of Art, Northampton
+    imageFileName: g3_1
+    labelText: "This Japanese 15th-century rendition of Bodhidharma (483-540) traversing
+      the rapids of the Yangtze River is only one of many. Across Asia, artists sought
+      to portray Bodhidharma's spiritual presence. According to popular myth, after
+      a disagreement with the Chinese emperor Liang Wudi (464\u2013549), the Indian
+      monk Bodhidharma set off towards northern China. To meet these ends, Bodhidharma
+      crossed the Yangtze River by standing still on a single reed. Here, Sess\u014D
+      T\u014Dy\u014D relies upon line-work, done in a calligraphic style that was
+      very popular in Buddhist circles. Using long, curvilinear strokes to describe
+      the monk\u2019s form against a blank background, Sess\u014D creates a calm and
+      quiet atmosphere. You may also notice his large, expressive eyes, partly obscured
+      by his distinctive brows, and his clawed feet. These serve to identify him as
+      a foreigner. Additionally, his stern expression and perfect balance on the reed
+      communicate both his determination and enlightenment. Much like a spirit, Bodhidharma
+      effortlessly overcomes the river\u2019s barrier.\n\n(Katie Rebhun, Katie Simpson,
+      Morgan Dolmatch, Sophie Weaver)"
+    typeOfObject: Hanging Scroll
